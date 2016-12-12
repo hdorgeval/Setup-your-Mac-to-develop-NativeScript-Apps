@@ -26,7 +26,15 @@ On the Installation Type screen, select the standard installation type:
 
 ![](/assets/Screen Shot 2016-12-12 at 23.27.36.png)
 
-
-
 Clic the Install button.
+
+You may eed to enter your password.
+
+At the end of the installation, you receive the Summary screen:
+
+![](/assets/Screen Shot 2016-12-12 at 23.32.19.png)
+
+
+
+
 
