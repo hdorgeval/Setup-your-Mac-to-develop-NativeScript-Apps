@@ -28,9 +28,5 @@ On the Installation Type screen, select the standard installation type:
 
 
 
-
-
-
-
-
+Clic the Install button.
 
