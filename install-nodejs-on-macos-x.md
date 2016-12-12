@@ -22,5 +22,15 @@ On the Destination Select screen, The Install for all users on this computer sho
 
 Clic on the Continue button.
 
+On the Installation Type screen, select the standard installation type:
+
+![](/assets/Screen Shot 2016-12-12 at 23.27.36.png)
+
+
+
+
+
+
+
 
 
