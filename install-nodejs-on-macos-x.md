@@ -14,9 +14,11 @@ The Node.js installer starts on the Introduction screen:
 
 Click on the Continue button.
 
-On the Licence screen 
+On the Licence screen click on the Continue button and agree the licence.
+
+On the Destination Select screen, The Install for all users on this computer should be selected:
 
 
 
-
+.
 
