@@ -18,7 +18,9 @@ On the Licence screen click on the Continue button and agree the licence.
 
 On the Destination Select screen, The Install for all users on this computer should be selected:
 
+.![](/assets/Screen Shot 2016-12-12 at 23.23.59.png)
+
+Clic on the Continue button.
 
 
-.
 
