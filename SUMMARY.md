@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Install NodeJs on MacOS X](install-nodejs-on-macos-x.md)
+* [Mac OS X Setup](Mac-OS-X-Setup.md)
+  * [Install NodeJs on MacOS X](install-nodejs-on-macos-x.md)
+
+
+
 
