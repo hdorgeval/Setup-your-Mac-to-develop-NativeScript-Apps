@@ -50,3 +50,15 @@ To make sure that /usr/local/bin is in the $PATH environment variable, open a Te
 
 Finally clic the Close button.
 
+
+
+## How to check if Node.js is correctly installed and what is the installed version?
+
+Open a terminal Window and type the following command
+
+`node -v`
+
+It should output `v7.2.1 or any version number of the current Node.js installation.`
+
+
+
