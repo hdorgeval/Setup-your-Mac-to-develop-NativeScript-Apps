@@ -8,3 +8,9 @@ Visual Studio Code does not rely on predefined project templates to create a pro
 
 Install from [https://code.visualstudio.com](https://code.visualstudio.com/)
 
+Click on the Download for Mac button:
+
+![](/assets/Screen Shot 2016-12-13 at 22.43.47.png)
+
+
+
