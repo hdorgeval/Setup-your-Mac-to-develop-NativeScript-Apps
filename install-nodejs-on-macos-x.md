@@ -34,17 +34,11 @@ At the end of the installation, you receive the Summary screen:
 
 ![](/assets/Screen Shot 2016-12-12 at 23.32.19.png)
 
+To make sure that /usr/local/bin is in the $PATH environment variable, open a Terminal window and type the following command
+
+`echo $PATH`
 
 
-
-
-
-
-
-
-
-
-ff
 
 
 
