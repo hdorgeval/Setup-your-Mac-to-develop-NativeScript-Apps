@@ -1,4 +1,4 @@
-# Install Node.js v7.2.1 on Mac OS X
+# Install Node.js v7.2.1 and npm on Mac OS X
 
 The purpose of this section is to guide you to install Node.js in your development environment. Node.js is both a runtime and a framework. As a runtime, Node.js manages the execution of JavaScript code on the machine where it is installed. This machine could be a server in the cloud or could be any machine like your development machine.
 
