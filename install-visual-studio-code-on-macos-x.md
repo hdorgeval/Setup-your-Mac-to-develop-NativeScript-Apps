@@ -12,5 +12,21 @@ Click on the Download for Mac button:
 
 ![](/assets/Screen Shot 2016-12-13 at 22.43.47.png)
 
+Then follow installation steps from : [Running VS Code on Mac](https://code.visualstudio.com/docs/setup/mac)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
