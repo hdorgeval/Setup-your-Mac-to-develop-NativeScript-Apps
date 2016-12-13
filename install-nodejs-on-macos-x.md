@@ -52,10 +52,6 @@ Finally clic the Close button.
 
 ## How to check if Node.js is correctly installed and what is the installed version?
 
-
-
-
-
 Open a terminal Window and type the following command
 
 `node -v`
@@ -70,9 +66,9 @@ Open a terminal Window and type the following command
 
 It should output `3.10.10` or any version number of the current npm installation.
 
-## What is Node.js CLI and npm CLI?
+## What is Node.js CLI?
 
-npm, likeNode.js is a command-line application. This means it has no user interface. You typically invoke npm and Node.js inside a Terminal window.
+Node.js is a command-line application. This means it has no user interface. You typically invoke Node.js inside a Terminal window.
 
 Command-line applications are often called CLI.
 
@@ -83,6 +79,26 @@ To invoke this command-line, open a Terminal window and type the following comma
 `node -h`
 
 This will give you the syntax to execute a JavaScript file
+
+```
+Usage: node [options] [ -e script | script.js ] [arguments]
+
+node debug script.js [arguments]
+```
+
+
+
+## What is npm CLI?
+
+npm is a command-line application. This means it has no user interface. You typically invoke npm inside a Terminal window.
+
+npm provides a CLI which is an executable file called npm. This executable file is located in folder `/usr/local/bin` and is a symbolic link to `/usr/local/lib/node_modules/npm/bin/npm`
+
+To invoke this command-line, open a Terminal window and type the following command:
+
+npm` -h`
+
+This will give you the syntax to manage packages:
 
 ```
 Usage: node [options] [ -e script | script.js ] [arguments]
