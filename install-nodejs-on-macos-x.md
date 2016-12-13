@@ -96,6 +96,5 @@ To invoke this command-line, open a Terminal window and type the following comma
 
 npm`-h`
 
-  
 
 
