@@ -86,8 +86,6 @@ Usage: node [options] [ -e script | script.js ] [arguments]
 node debug script.js [arguments]
 ```
 
-
-
 ## What is npm CLI?
 
 npm is a command-line application. This means it has no user interface. You typically invoke npm inside a Terminal window.
@@ -96,15 +94,8 @@ npm provides a CLI which is an executable file called npm. This executable file 
 
 To invoke this command-line, open a Terminal window and type the following command:
 
-npm` -h`
+npm`-h`
 
-This will give you the syntax to manage packages:
-
-```
-Usage: node [options] [ -e script | script.js ] [arguments]
-
-node debug script.js [arguments]
-```
-
+  
 
 
