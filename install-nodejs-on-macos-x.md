@@ -38,7 +38,7 @@ To make sure that /usr/local/bin is in the $PATH environment variable, open a Te
 
 `echo $PATH`
 
-
+Finally clic the Close button.
 
 
 
