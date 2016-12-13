@@ -1,12 +1,14 @@
 # Install Node.js v7.2.1 on Mac OS X
 
-The purpose of this section is to guide you to install Node.js in your development environment.Node.js is both a runtime and a framework. As a runtime, Node.js manages the execution of JavaScript code on the machine where it is installed. This machine could be a server in the cloud or could be any machine like your development machine.
+The purpose of this section is to guide you to install Node.js in your development environment. Node.js is both a runtime and a framework. As a runtime, Node.js manages the execution of JavaScript code on the machine where it is installed. This machine could be a server in the cloud or could be any machine like your development machine.
 
 Node.js provides a framework that you can use to develop connected JavaScript application.
 
-Node.jsp rovides an extensibility mechanism called Module.Node.js itself is designed as a set of core modules.
+Node.js provides an extensibility mechanism called Module.
 
-To install and use third-party modules you need a package installer. This package installer is called npm \(Node Packet Manager\). Though npm and Node.js are provided by two different legal entities, the node packet manager npm is bundled with theNode.js installer.
+Node.js itself is designed as a set of core modules.
+
+To install and use third-party modules you need a package installer. This package installer is called npm \(Node Packet Manager\). Though npm and Node.js are provided by two different legal entities, the node packet manager npm is bundled with the Node.js installer.
 
 Latest current version for node.js \(7.2.1\) and npm \(3.10.10\) is available at: [https://nodejs.org/en/download/current/](https://nodejs.org/en/download/current/).
 
