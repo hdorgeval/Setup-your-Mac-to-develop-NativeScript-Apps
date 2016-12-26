@@ -30,5 +30,7 @@ You should see the following info:
 
 Click the Open Anyway button. The installer should start now:
 
+![](/assets/Screen Shot 2016-12-26 at 17.50.45.png)
+
 
 
