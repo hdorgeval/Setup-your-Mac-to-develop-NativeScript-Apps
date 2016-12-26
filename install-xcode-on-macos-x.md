@@ -24,7 +24,7 @@ Double click the downloaded package to start the installation:
 
 Click on the Continue button and select all default installation steps until completion.
 
-
+![](/assets/Screen Shot 2016-12-26 at 18.57.21.png)
 
 
 
