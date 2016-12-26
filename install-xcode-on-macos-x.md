@@ -16,5 +16,11 @@ Download and install on your Mac by clicking on the Install button.
 
 
 
+## Install Command Line Tools for Xcode
+
+ Install the Command Line Tools for Xcode from [https://developer.apple.com/download/more/](https://developer.apple.com/download/more/)
+
+
+
 
 
