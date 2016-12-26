@@ -26,7 +26,9 @@ Installation of the nativescript package is done globally. This will ensure you 
 
 If you have trouble during package installation like the following errr message:
 
-
+```
+Error: EACCES: permission denied, access '/usr/local/lib/node\_modules'
+```
 
 , have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally)
 
