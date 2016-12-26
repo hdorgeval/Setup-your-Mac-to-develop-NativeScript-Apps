@@ -32,11 +32,9 @@ Install the [xcodeproj ruby gem](https://rubygems.org/gems/xcodeproj/versions/0.
 
 `sudo gem install xcodeproj`
 
-
-
 ## Install CocoaPods
 
-
+Install [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) with the following command:
 
 
 
