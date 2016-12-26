@@ -30,9 +30,13 @@ If you have trouble during package installation like the following errr message:
 Error: EACCES: permission denied, access '/usr/local/lib/node\_modules'
 ```
 
-, have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally)
+, have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally), or type the following command:
 
-The name of this Command-Line tool is tns. Type the following command to have all details of this CLI:
+```
+sudo npm install nativescript -g
+```
+
+Once installed, the name of this Command-Line tool is **tns**. Type the following command to have all details of this CLI:
 
 ```
 tns -h
