@@ -36,7 +36,11 @@ Click on the Configure Button and select SDK Manager:
 
 In the left pane select Android SDK. On the right pane, select the SDK Platforms Tab and select the SDKs for API level 21 up to 24.
 
+Select the Show Package Details, then select all uncheched boxes within each selected API Levels:
+
+
+
+
+
 Click the OK button to download and install these Android SDKs.
-
-
 
