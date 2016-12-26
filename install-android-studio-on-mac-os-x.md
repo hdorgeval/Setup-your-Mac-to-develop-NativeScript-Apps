@@ -19,5 +19,3 @@ To install Android Studio on your Mac, proceed as follows:
 
 
 
-
-
