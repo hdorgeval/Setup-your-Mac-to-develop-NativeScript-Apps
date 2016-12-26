@@ -8,6 +8,10 @@ Latest current version is available at: [https://git-scm.com/downloads.](https:/
 
 
 
+Select the Download for Mac button:
+
+![](/assets/Screen Shot 2016-12-26 at 17.23.45.png)
+
 
 
 
