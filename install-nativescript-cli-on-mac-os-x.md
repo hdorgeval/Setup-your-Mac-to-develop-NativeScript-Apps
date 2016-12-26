@@ -22,9 +22,18 @@ Open the Terminal App and type:
 npm install nativescript -g
 ```
 
-
-
 Installation of the nativescript package is done globally. This will ensure you can use its command line tool in any Visual Studio Code project. The name of this Command-Line tool is tns. Type the following command to have all details of this CLI:
 
+```
+tns -h
+```
+
+During the installation there is a check for the Android SDK installation. You may receive these messages in the Terminal window:
+
+
+
+
+
+  
 
 
