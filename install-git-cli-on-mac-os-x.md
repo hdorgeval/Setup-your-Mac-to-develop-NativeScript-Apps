@@ -36,5 +36,11 @@ Select all default installation steps until completion:
 
 ![](/assets/Screen Shot 2016-12-26 at 17.53.23.png)
 
+## How to update if already installed?
+
+If Git is already opened on your Mac, just execute this command in a Terminal Window:
+
+
+
 
 
