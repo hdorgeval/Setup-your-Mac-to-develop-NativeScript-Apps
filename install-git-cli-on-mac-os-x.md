@@ -12,7 +12,25 @@ Select the Download for Mac button:
 
 Open your Downloads folder and double clic on the **git-2.10.1-intel-universal-mavericks.dmg** file.
 
-Then, double-click the package in the disk image hat has been mounted on the desktop. 
+Then, double-click the package in the disk image hat has been mounted on the desktop.
 
 This installs git to /usr/local/git, and places symlinks into /usr/local/bin and /usr/share/man/.
+
+If you see the following error message that prevents you from installing the Git CLI:
+
+![](/assets/Screen Shot 2016-12-26 at 17.38.26.png)
+
+You need to modify temporarily the system preferences.
+
+In System Preferences, click on the Security & Privacy icon \(General Tab\).
+
+You should see the following info:
+
+![](/assets/Screen Shot 2016-12-26 at 17.46.55.png)
+
+Click the Open Anyway button.
+
+
+
+
 
