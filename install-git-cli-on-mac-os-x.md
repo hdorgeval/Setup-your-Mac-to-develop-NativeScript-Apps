@@ -28,9 +28,7 @@ You should see the following info:
 
 ![](/assets/Screen Shot 2016-12-26 at 17.46.55.png)
 
-Click the Open Anyway button.
-
-
+Click the Open Anyway button. The installer should start now:
 
 
 
