@@ -22,7 +22,13 @@ Open the Terminal app and type:
 npm install nativescript -g
 ```
 
-Installation of the nativescript package is done globally. This will ensure you can use its command line tool in any Visual Studio Code project. The name of this Command-Line tool is tns. Type the following command to have all details of this CLI:
+Installation of the nativescript package is done globally. This will ensure you can use its command line tool in any Visual Studio Code project. 
+
+If you have trouble during package installation, have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally)
+
+
+
+The name of this Command-Line tool is tns. Type the following command to have all details of this CLI:
 
 ```
 tns -h
