@@ -30,7 +30,13 @@ Once installed, you get the Welcome to Android Studio window :
 
 ![](/assets/Screen Shot 2016-12-27 at 00.01.25.png)
 
+Click on the Configure Button and select SDK Manager:
+
+![](/assets/Screen Shot 2016-12-27 at 00.23.12.png)
+
+In the left pane select Android SDK. On the right pane, select the SDK Platforms Tab and select the SDKs for API level 21 up to 24.
+
+Click the OK button to download and install these Android SDKs.
 
 
-Click on the Configure Button and select 
 
