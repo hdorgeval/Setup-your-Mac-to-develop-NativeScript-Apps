@@ -29,7 +29,7 @@ If you have trouble during package installation, have a look at [//docs.npmjs.co
 If you receive the following error message:
 
 ```
-Error: EACCES: permission denied, access '/usr/local/lib/node\_modules'
+Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 ```
 
 have a look at : [https://docs.npmjs.com/getting-started/fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) to solve this issue.
