@@ -6,13 +6,9 @@ Git is responsible for everything GitHub-related that happens locally on your co
 
 Latest current version is available at: [https://git-scm.com/downloads.](https://git-scm.com/downloads)
 
-
-
 Select the Download for Mac button:
 
 ![](/assets/Screen Shot 2016-12-26 at 17.23.45.png)
 
-
-
-
+Open your Downloads folder and double clic on the node-v7.2.1.pkg file.
 
