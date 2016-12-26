@@ -24,13 +24,15 @@ npm install nativescript -g
 
 Installation of the nativescript package is done globally. This will ensure you can use its command line tool in any Visual Studio Code project.
 
-If you have trouble during package installation like the following errr message:
+If you have trouble during package installation, have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally).
+
+If you receive the following error message:
 
 ```
 Error: EACCES: permission denied, access '/usr/local/lib/node\_modules'
 ```
 
-, have a look at [//docs.npmjs.com/getting-started/installing-npm-packages-globally](///docs.npmjs.com/getting-started/installing-npm-packages-globally), or type the following command:
+have a look at : [https://docs.npmjs.com/getting-started/fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 
 ```
 sudo npm install nativescript -g
