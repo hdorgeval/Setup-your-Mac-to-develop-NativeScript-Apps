@@ -12,5 +12,7 @@ Select the Download for Mac button:
 
 Open your Downloads folder and double clic on the **git-2.10.1-intel-universal-mavericks.dmg** file.
 
+Then, double-click the package in the disk image hat has been mounted on the desktop. 
 
+This installs git to /usr/local/git, and places symlinks into /usr/local/bin and /usr/share/man/.
 
