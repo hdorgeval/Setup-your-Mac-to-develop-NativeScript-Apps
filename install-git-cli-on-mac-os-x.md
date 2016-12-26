@@ -10,5 +10,7 @@ Select the Download for Mac button:
 
 ![](/assets/Screen Shot 2016-12-26 at 17.23.45.png)
 
-Open your Downloads folder and double clic on the node-v7.2.1.pkg file.
+Open your Downloads folder and double clic on the **git-2.10.1-intel-universal-mavericks.dmg** file.
+
+
 
