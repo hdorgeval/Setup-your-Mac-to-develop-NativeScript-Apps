@@ -14,11 +14,15 @@ The Download link will open the App Store APP on Xcode:
 
 Download and install on your Mac by clicking on the Install button.
 
-
-
 ## Install Command Line Tools for Xcode
 
- Install the Command Line Tools for Xcode from [https://developer.apple.com/download/more/](https://developer.apple.com/download/more/)
+Install the Command Line Tools for Xcode from [https://developer.apple.com/download/more/](https://developer.apple.com/download/more/)
+
+Double click the downloaded package to start the installation:
+
+![](/assets/Screen Shot 2016-12-26 at 18.51.29.png)
+
+Click on the Continue button and select all default installation steps until completion.
 
 
 
