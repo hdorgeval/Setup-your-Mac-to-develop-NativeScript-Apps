@@ -24,5 +24,7 @@ Click the Next button.
 
 Select a Standard installation and click Next.
 
+On the Verify Settings window, click Finish.
+
 
 
