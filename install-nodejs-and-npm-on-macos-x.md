@@ -100,5 +100,5 @@ npm`-h`
 
 More details of the npm CLI : [https://docs.npmjs.com/cli/help](https://docs.npmjs.com/cli/help)
 
-More details on how to manage packages: [https://docs.npmjs.com/misc/faq](https://docs.npmjs.com/misc/faq)
+More details on how to manage packages: [https://docs.npmjs.com/misc/faq](https://docs.npmjs.com/misc/faq), [https://docs.npmjs.com/getting-started/what-is-npm](https://docs.npmjs.com/getting-started/what-is-npm)
 

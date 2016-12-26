@@ -12,11 +12,11 @@ In the found results list, select the NativeScript Command Line interface for bu
 
 ![](/assets/Screen Shot 2016-12-26 at 22.22.21.png)
 
-Click on thenativescriptlink. You will land on the[NativeScript Command-Line Interface GitHub page](https://github.com/NativeScript/nativescript-cli#readme).
+Click on thenativescriptlink. You will land on the [NativeScript Command-Line Interface GitHub page](https://github.com/NativeScript/nativescript-cli#readme).
 
 Take time to read all detailed information supplied in this page.
 
-Open the Terminal App and type:
+Open the Terminal app and type:
 
 ```
 npm install nativescript -g
@@ -29,11 +29,4 @@ tns -h
 ```
 
 During the installation there is a check for the Android SDK installation. You may receive these messages in the Terminal window:
-
-
-
-
-
-  
-
 
