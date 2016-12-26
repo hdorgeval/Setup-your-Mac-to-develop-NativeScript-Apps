@@ -26,15 +26,17 @@ Click on the Continue button and select all default installation steps until com
 
 ![](/assets/Screen Shot 2016-12-26 at 18.57.21.png)
 
-
-
 ## Install xcodeproj ruby gem
-
-
 
 Install the [xcodeproj ruby gem](https://rubygems.org/gems/xcodeproj/versions/0.28.2) with the following command:
 
 `sudo gem install xcodeproj`
+
+
+
+## Install CocoaPods
+
+
 
 
 
