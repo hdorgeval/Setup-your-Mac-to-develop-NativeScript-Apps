@@ -26,5 +26,11 @@ Select a Standard installation and click Next.
 
 On the Verify Settings window, click Finish.
 
+Once installed, you get the Welcome to Android Studio window :
 
+![](/assets/Screen Shot 2016-12-27 at 00.01.25.png)
+
+
+
+Click on the Configure Button and select 
 
