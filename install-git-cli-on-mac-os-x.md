@@ -38,5 +38,5 @@ Select all default installation steps until completion:
 
 ## More on Git
 
-You can read more on Git at : 
+You can read more on Git at : [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
