@@ -17,9 +17,12 @@ To install Android Studio on your Mac, proceed as follows:
 3. Select whether you want to import previous Android Studio settings, then click OK.
 4. The Android Studio Setup Wizard guides you though the rest of the setup, which includes downloading Android SDK components that are required for development.
 
-![](/assets/Screen Shot 2016-12-26 at 23.21.50.png)
+![](/assets/Screen Shot 2016-12-26 at 23.21.50.png)  
 Click the Next button.
 
+![](/assets/Screen Shot 2016-12-26 at 23.23.04.png)
+
+Select a Standard installation and click Next.
 
 
 
