@@ -32,11 +32,7 @@ If you receive the following error message:
 Error: EACCES: permission denied, access '/usr/local/lib/node\_modules'
 ```
 
-have a look at : [https://docs.npmjs.com/getting-started/fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
-
-```
-sudo npm install nativescript -g
-```
+have a look at : [https://docs.npmjs.com/getting-started/fixing-npm-permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions) to solve this issue.
 
 Once installed, the name of this Command-Line tool is **tns**. Type the following command to have all details of this CLI:
 
