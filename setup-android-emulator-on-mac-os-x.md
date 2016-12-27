@@ -24,10 +24,9 @@ In the Select Hardware window , select Nexus 5 as shown in the following snapsho
 
 Click the Next button.
 
-
-
 In the System Image, select the system image Nougat, API Level 25 , ABI x86 :
 
 ![](/assets/Screen Shot 2016-12-27 at 16.57.28.png)
 
-Click on the download link to donloawd the selected System Image.
+Click on the download link to download the selected System Image.
+
