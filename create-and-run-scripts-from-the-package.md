@@ -30,9 +30,25 @@ npm run Nexus5
 
 The scripts content is fully described at [https://docs.npmjs.com/misc/scripts](https://docs.npmjs.com/misc/scripts).
 
+## How to open a Terminal Window from Visual Studio Code?
+
+In Visual Studio Code open the Command Palette by typing ⌘⇧P. Then start typing the following text:
+
+```
+open New
+```
+
+Then select Open New Terminal from the suggestion list.
+
+Notice that you may also use the following shortcut :  ⌘⇧C
+
+In the newly opened Terminal Window, type the following command:
+
+```
+pwd
+```
+
+The working directory that is setup in this Terminal Window is the project's directory.
 
 
-How to open a Terminal Window from Visual Studio Code?
-
-In Visual Studio Code openthe Command Palette by typing 
 
