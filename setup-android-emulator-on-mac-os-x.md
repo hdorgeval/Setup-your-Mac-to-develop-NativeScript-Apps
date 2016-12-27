@@ -37,3 +37,32 @@ In the Verify Configuration window, check any parameter :
 ![](/assets/Screen Shot 2016-12-27 at 18.07.01.png)
 
 Then click on the Finish button.
+
+AVD Manager shows you the newly created device:
+
+![](/assets/Screen Shot 2016-12-27 at 18.17.00.png)
+
+Click on the launch button to launch the newly created AVD in the emulator.  
+Notice in the Run Window of Android Studio the command line used to start the device:
+
+```
+/Users/HDO/Library/Android/sdk/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
+```
+
+which can be shortened to :
+
+```
+$ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
+```
+
+Stop the emulator started by Android Studio. Open the Terminal app and type the following command:
+
+```
+$ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
+```
+This should start the emulator with the selected AVD.
+
+
+
+
+
