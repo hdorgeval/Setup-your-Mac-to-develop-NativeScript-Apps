@@ -22,3 +22,7 @@ Install the package.
 
 
 
+## Setup the JAVA\_HOME system variable
+
+
+
