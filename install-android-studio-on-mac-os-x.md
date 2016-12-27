@@ -32,15 +32,25 @@ Once installed, you get the Welcome to Android Studio window :
 
 Click on the Configure Button and select SDK Manager:
 
-![](/assets/Screen Shot 2016-12-27 at 00.23.12.png)
+![](/assets/Screen Shot 2016-12-27 at 11.22.42.png)
 
-In the left pane select Android SDK. On the right pane, select the SDK Platforms Tab and select the SDKs for API level 21 up to 24.
-
-Select the **Show Package Details **checkbox, then select all uncheched boxes within each selected API Levels:
-
-![](/assets/Screen Shot 2016-12-27 at 00.36.51.png)
+In the left pane select Android SDK. On the right pane, select the SDK Platforms Tab and select the SDKs for API level 22 up to 24.
 
 Click the OK button to download and install these Android SDKs.
+
+After accepting the licence you should see the following screen:
+
+![](/assets/Screen Shot 2016-12-27 at 11.05.06.png)
+
+Wait until all components are installed.
+
+## Setup the ANDROID\_HOME system variable
+
+Open the SDK Manager and make a copy of the Android SDK Location :
+
+![](/assets/Screen Shot 2016-12-27 at 11.32.50.png)
+
+Open the Terminal app and type the following command:
 
 
 
