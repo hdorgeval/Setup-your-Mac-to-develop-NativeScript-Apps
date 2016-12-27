@@ -18,3 +18,7 @@ Click on this button.
 
 On the next page select the latest release for the Mac OS X platform: jdk-8u112-macosx-x64.dmg.
 
+Install the package.
+
+
+
