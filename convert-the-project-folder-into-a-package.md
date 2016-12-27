@@ -6,11 +6,14 @@ To process your folder and any file within that folder as a project entity, Visu
 To do this, you need to transform your project folder into a package folder. From there you will be able to manage every dependencies in your project.  
 You will be able to download and reference into your project folder any third-party module you need to develop your App.
 
-Go to the Terminal Window you have opened in the previous section and type the following command:
+Go to the Terminal Window you have opened in the previous section and type the following commands:
 
 ```
+pwd
 npm init --yes
 ```
+
+the pwd command will give you your current working directory. Be sure this current directory is your project's directory.
 
 
 
