@@ -20,9 +20,13 @@ The package.json file should look like :
 
 ![](/assets/Screen Shot 2016-12-28 at 00.10.24.png)
 
+To run your custom android emulator type the following command in the Terminal window:
 
+```
+npm run Nexus5
+```
 
-jj
+The scripts content is fully described at [https://docs.npmjs.com/misc/scripts](https://docs.npmjs.com/misc/scripts).
 
 
 
