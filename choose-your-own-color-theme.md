@@ -10,3 +10,5 @@ You should see something like this:
 
 You may also choose a color theme from the Visual Studio Code marketplace. To do this, scroll to the end of the proposed list of color themes and select the option Find more in the Marketplace. Try to install the Microsoft Graph color theme.
 
+![](/assets/Screen Shot 2016-12-27 at 21.53.27.png)
+
