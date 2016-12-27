@@ -23,3 +23,15 @@ Go back to Visual Studio Code, the new **package.json** file has been dynamicall
 
 Click on the **package.json** file, Visual Studio will open it in a separate window. It's content should look like :
 
+![](/assets/Screen Shot 2016-12-27 at 22.13.41.png)
+
+**Package.json** content is fully described at [https://docs.npmjs.com/files/package.json](https://docs.npmjs.com/files/package.json)
+
+There are two entries within the **Package.json** that you must be aware of:
+
+* The scripts entry;
+* The main entry.
+
+The main entry is the entry point of your package. The scripts entry is is a dictionary containing script commands that are run at various times in the lifecycle of your package.
+
+
