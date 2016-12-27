@@ -52,7 +52,22 @@ Open the SDK Manager and make a copy of the Android SDK Location :
 
 Open the Terminal app and type the following command:
 
+```
+export ANDROID_HOME=/Users/HDO/Library/Android/sdk
+```
 
+To check the ANDROID\_HOME is correctly setup type the following commands:
 
+```
+cd $ANDROID_HOME
+ls
+```
+
+You should see the following result:
+
+```
+add-ons		extras		patcher		platforms	system-images
+build-tools	licenses	platform-tools	sources		tools
+```
 
 
