@@ -51,6 +51,10 @@ db                    src.zip
 
 ## Persist the JAVA\_HOME system variable for the current user
 
+The JAVA\_HOME system variable must be persisted when you leave and resstart a new Terminal  Window.
+
+One way to do this is to create a .profile file in the users home directory. This file should contain all the commands that should be persisted.
+
 Open the Terminal app and type the following commands:
 
 ```
@@ -67,6 +71,14 @@ You should have a screen similar to the following screenshot:
 ![](/assets/Screen Shot 2016-12-27 at 15.26.59.png)
 
 To save the .profile file, type `CTRL + X`, then type `Y` followed by the `ENTER` key.
+
+Once done, quit the Terminal window, reopen a new one and type the following command to check if the system variable has been persisted:
+
+```
+echo $JAVA_HOME
+```
+
+You should have a non empty response.
 
 
 
