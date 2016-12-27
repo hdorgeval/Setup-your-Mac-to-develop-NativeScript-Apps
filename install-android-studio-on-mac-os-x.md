@@ -70,5 +70,36 @@ add-ons        extras        patcher        platforms    system-images
 build-tools    licenses    platform-tools    sources        tools
 ```
 
+## Persist the ANDROID\_HOME system variable for the current user
 
+The ANDROID\_HOME system variable must be persisted when you leave and resstart a new Terminal  Window.
+
+One way to do this is to create or update a .profile file in the user's home directory. This file should contain all the commands that should be executed before the Terminal Window session starts.
+
+Open the Terminal app and type the following commands:
+
+```
+cd $HOME
+nano .profile
+```
+
+In the Text Editor, add the following line
+
+```
+export ANDROID_HOME=/Users/HDO/Library/Android/sdk
+```
+
+You should have a screen similar to the following screenshot:
+
+![](/assets/Screen Shot 2016-12-27 at 15.43.53.png)
+
+To save the .profile file, type `CTRL + X`, then type `Y` followed by the `ENTER` key.
+
+Once done, quit the Terminal window, reopen a new one and type the following command to check if the system variable has been persisted:
+
+```
+echo $ANDROID_HOME
+```
+
+You should have a non empty response.
 
