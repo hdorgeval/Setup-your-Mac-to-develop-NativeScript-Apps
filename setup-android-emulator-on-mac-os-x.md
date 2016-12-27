@@ -55,14 +55,13 @@ which can be shortened to :
 $ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
 ```
 
+## How to start Android Emulator from Terminal?
+
 Stop the emulator started by Android Studio. Open the Terminal app and type the following command:
 
 ```
 $ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
 ```
+
 This should start the emulator with the selected AVD.
-
-
-
-
 
