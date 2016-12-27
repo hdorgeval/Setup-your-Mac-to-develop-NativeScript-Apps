@@ -26,3 +26,8 @@ Click the Next button.
 
 
 
+In the System Image, select the system image Nougat, API Level 25 , ABI x86 :
+
+![](/assets/Screen Shot 2016-12-27 at 16.57.28.png)
+
+Click on the download link to donloawd the selected System Image.
