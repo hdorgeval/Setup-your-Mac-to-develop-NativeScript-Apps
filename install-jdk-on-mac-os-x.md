@@ -12,5 +12,7 @@ Navigate to the following URL :[http://www.oracle.com/technetwork/java/javase/do
 
 Locate the button Java SE Downloads:
 
+![](/assets/Screen Shot 2016-12-27 at 11.49.09.png)
+
 
 
