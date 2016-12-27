@@ -7,8 +7,10 @@ Open the Terminal app and type the following commands:
 ```
 cd $HOME
 cd VSCodeProjects/MyFirstProject
-code
+code .
 ```
+
+Notice the dot after the code command. This means you want to open Visual Studio Code on the current folder.
 
 Visual Studio Code should open. You should see something like this:
 
