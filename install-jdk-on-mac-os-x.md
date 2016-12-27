@@ -40,13 +40,13 @@ You should see the following result:
 
 ```
 /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home
-COPYRIGHT				include
-LICENSE					javafx-src.zip
-README.html				jre
-THIRDPARTYLICENSEREADME-JAVAFX.txt	lib
-THIRDPARTYLICENSEREADME.txt		man
-bin					release
-db					src.zip
+COPYRIGHT                include
+LICENSE                    javafx-src.zip
+README.html                jre
+THIRDPARTYLICENSEREADME-JAVAFX.txt    lib
+THIRDPARTYLICENSEREADME.txt        man
+bin                    release
+db                    src.zip
 ```
 
 
