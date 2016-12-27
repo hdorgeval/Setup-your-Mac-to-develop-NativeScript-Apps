@@ -18,3 +18,11 @@ You can use the scripts object to start an Android emulator. To do this add the 
 
 The package.json file should look like :
 
+![](/assets/Screen Shot 2016-12-28 at 00.10.24.png)
+
+
+
+jj
+
+
+
