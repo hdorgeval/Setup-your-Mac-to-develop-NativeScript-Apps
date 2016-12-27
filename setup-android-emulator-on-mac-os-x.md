@@ -32,5 +32,8 @@ Click on the download link to download the selected System Image. This download 
 
 Once the download is complete, click on the Next button.
 
+In the Verify Configuration window, check any parameter :
 
+![](/assets/Screen Shot 2016-12-27 at 18.07.01.png)
 
+Then click on the Finish button.
