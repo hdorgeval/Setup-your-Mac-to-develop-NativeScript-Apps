@@ -11,4 +11,5 @@
     * [Install NativeScript CLI on Mac OS X](install-nativescript-cli-on-mac-os-x.md)
     * [Setup Android Emulator on Mac OS X](setup-android-emulator-on-mac-os-x.md)
 * [Your first Visual Studio Code Project](your-first-visual-studio-code-project.md)
+* [Create the root folder of your project template](create-the-root-folder-of-your-project-template.md)
 
