@@ -10,11 +10,11 @@ Go back to the opened Terminal window and type the following command:
 npm test
 ```
 
-You can use the scripts object to start any app. To do this add the following property to the scripts object:
+You can use the scripts object to start an Android emulator. To do this add the following property to the scripts object:
 
 ```
-"myCommand" : "siri"
+"Nexus5" : "$ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25"
 ```
 
-Thepackage.jsonfile should look like :
+The package.json file should look like :
 
