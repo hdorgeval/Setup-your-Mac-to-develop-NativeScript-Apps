@@ -66,8 +66,9 @@ ls
 You should see the following result:
 
 ```
-add-ons		extras		patcher		platforms	system-images
-build-tools	licenses	platform-tools	sources		tools
+add-ons        extras        patcher        platforms    system-images
+build-tools    licenses    platform-tools    sources        tools
 ```
+
 
 
