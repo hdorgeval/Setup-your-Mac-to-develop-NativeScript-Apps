@@ -14,5 +14,9 @@ Locate the button Java SE Downloads:
 
 ![](/assets/Screen Shot 2016-12-27 at 11.49.09.png)
 
+Click on this button. 
+
+On the next page select the latest release for the 64-bit platform: jdk-8u112-macosx-x64.dmg.
+
 
 
