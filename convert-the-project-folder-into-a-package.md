@@ -15,5 +15,11 @@ npm init --yes
 
 the pwd command will give you your current working directory. Be sure this current directory is your project's directory.
 
+Have a look to the npm CLI init command : [https://docs.npmjs.com/cli/init](https://docs.npmjs.com/cli/init)
 
+What you get from this **init** command is new file called **package.json** created at the root of your project folder.
+
+Go back to Visual Studio Code, the new **package.json** file has been dynamically loaded in the IDE.
+
+Click on the **package.json** file, Visual Studio will open it in a separate window. It's content should look like :
 
