@@ -30,3 +30,9 @@ npm run Nexus5
 
 The scripts content is fully described at [https://docs.npmjs.com/misc/scripts](https://docs.npmjs.com/misc/scripts).
 
+
+
+How to open a Terminal Window from Visual Studio Code?
+
+In Visual Studio Code openthe Command Palette by typing 
+
