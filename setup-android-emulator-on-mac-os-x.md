@@ -18,5 +18,11 @@ If no emulator has been created you should start with this screen:
 
 Click the Create Virtual Device button.
 
+In the Select Hardware window , select Nexus 5 as shown in the following snapshot:
+
+![](/assets/Screen Shot 2016-12-27 at 16.52.58.png)
+
+Click the Next button.
+
 
 
