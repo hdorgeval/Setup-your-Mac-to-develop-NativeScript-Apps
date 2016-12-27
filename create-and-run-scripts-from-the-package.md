@@ -10,7 +10,7 @@ Go back to the opened Terminal window and type the following command:
 npm test
 ```
 
-You can use the scripts object to start an Android emulator. To do this add the following property to the scripts object:
+You can use the scripts object to start an Android emulator. To do this add the following property to the scripts object \(Go to section **Setup Android Emulator** for the details on how to setup this Android emulator\):
 
 ```
 "Nexus5" : "$ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25"
