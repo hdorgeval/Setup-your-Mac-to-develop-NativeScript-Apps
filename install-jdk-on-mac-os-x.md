@@ -20,9 +20,31 @@ On the next page select the latest release for the Mac OS X platform: jdk-8u112-
 
 Install the package.
 
-
-
 ## Setup the JAVA\_HOME system variable
+
+
+
+Open the Terminal app and type the following command:
+
+```
+export JAVA_HOME=$(/usr/libexec/java_home)
+```
+
+To check the JAVA\_HOME is correctly setup type the following commands:
+
+```
+cd $JAVA_HOME
+ls
+```
+
+You should see the following result:
+
+```
+add-ons        extras        patcher        platforms    system-images
+build-tools    licenses    platform-tools    sources        tools
+```
+
+
 
 
 
