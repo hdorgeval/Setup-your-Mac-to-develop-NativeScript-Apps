@@ -49,5 +49,24 @@ bin                    release
 db                    src.zip
 ```
 
+## Persist the JAVA\_HOME system variable for the current user
+
+Open the Terminal app and type the following commands:
+
+```
+cd $HOME
+nano .profile
+```
+
+In the Text Editor, type the following line
+
+`export JAVA_HOME=$(/usr/libexec/java_home)`
+
+You should have a screen similar to the following screenshot:
+
+![](/assets/Screen Shot 2016-12-27 at 15.26.59.png)
+
+To save the .profile file, type `CTRL + X`, then type `Y` followed by the `ENTER` key.
+
 
 
