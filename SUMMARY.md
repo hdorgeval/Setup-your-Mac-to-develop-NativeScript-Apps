@@ -20,4 +20,5 @@
         * [Configure TypeScript to work with external modules](configure-typescript-to-work-with-external-modules.md)
     * [Install NativeScript Extension for Visual Studio Code](install-nativescript-extension-for-visual-studio-code.md)
 * [Check NativeScript Installation is complete](check-nativescript-installation-is-complete.md)
+* [Your First NativeScript project with TypeScript](your-first-nativescript-project-with-typescript.md)
 
