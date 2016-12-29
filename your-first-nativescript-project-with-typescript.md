@@ -47,5 +47,30 @@ tns prepare ios
 tns build ios
 ```
 
+## Create Scrips to start Android and iPhone emulator
+
+Open Visual Studio Code from the Terminal window:
+
+```
+code .
+```
+
+Within Visual Studio Code, open the package.json file and insert the following scripts section:
+
+```
+"scripts": {
+    "Nexus5": "$ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25",
+    "iPhone6" : "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator -CurrentDeviceID 8528838E-4B47-4F0E-B415-E87F8C8A6163"
+  }
+```
+
+See the [Create and run scripts from the package](/create-and-run-scripts-from-the-package.md) for more details on how to create scripts to start Android and iOS emulators.
+
+The package.json file should look like this:
+
+![](/assets/Screen Shot 2016-12-29 at 19.23.11.png)
+
+bla
+
 
 
