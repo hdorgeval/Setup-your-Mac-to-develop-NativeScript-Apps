@@ -17,5 +17,5 @@
         * [Create and run scripts from the package](create-and-run-scripts-from-the-package.md)
         * [Define your project as a TypeScript project](define-your-project-as-a-typescript-project.md)
         * [Configure TypeScript for your project](configure-typescript-for-your-project.md)
-* Configure TypeScript to work with external modules
+* [Configure TypeScript to work with external modules](configure-typescript-to-work-with-external-modules.md)
 
