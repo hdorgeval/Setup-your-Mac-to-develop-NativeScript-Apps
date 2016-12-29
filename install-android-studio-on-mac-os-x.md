@@ -103,3 +103,9 @@ echo $ANDROID_HOME
 
 You should have a non empty response.
 
+
+
+## References
+
+[https://support.apple.com/en-us/HT202292](https://support.apple.com/en-us/HT202292)
+
