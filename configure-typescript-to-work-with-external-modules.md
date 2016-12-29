@@ -85,5 +85,9 @@ This command first creates a **typings** folder within the project's folder. It 
 typings install
 ```
 
-Open the **app.ts** file. You will see that Visual Studio does not complain anymore. If you start typinghttp., the IntelliSense helps you to complete your code:
+Open the **app.ts** file. You will see that Visual Studio does not complain anymore. If you start typing http., the IntelliSense helps you to complete your code:
+
+![](/assets/Screen Shot 2016-12-29 at 11.57.04.png)
+
+
 
