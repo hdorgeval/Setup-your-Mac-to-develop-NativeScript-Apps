@@ -16,3 +16,7 @@ Click on the **Install** button.
 
 
 
+References
+
+[https://www.nativescript.org/nativescript-for-visual-studio-code](https://www.nativescript.org/nativescript-for-visual-studio-code)
+
