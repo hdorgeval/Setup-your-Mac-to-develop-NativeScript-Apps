@@ -69,8 +69,6 @@ The package.json file should look like :
 
 ![](/assets/Screen Shot 2016-12-29 at 16.22.35.png)
 
-
-
 Save the package.json file.
 
 To run your iPhone emulator type the following command in the Terminal window:
@@ -78,8 +76,6 @@ To run your iPhone emulator type the following command in the Terminal window:
 ```
 npm run iPhone6
 ```
-
-T
 
 ## How to open a Terminal Window from Visual Studio Code?
 
