@@ -30,6 +30,22 @@ npm run Nexus5
 
 The scripts content is fully described at [https://docs.npmjs.com/misc/scripts](https://docs.npmjs.com/misc/scripts).
 
+## Create a script to run an iPhone emulator
+
+You can use the scripts object to start an IPhone emulator. To do this add the following property to the scripts object:
+
+```
+"iPhone6" : "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator -CurrentDeviceID 8528838E-4B47-4F0E-B415-E87F8C8A6163"
+```
+
+The CurrentDeviceID comes from the result of the following command:
+
+```
+xcrun simctl list
+```
+
+The package.json file should look like :
+
 ## How to open a Terminal Window from Visual Studio Code?
 
 In Visual Studio Code open the Command Palette by typing ⌘⇧P. Then start typing the following text:
@@ -49,6 +65,4 @@ pwd
 ```
 
 The working directory that is setup in this Terminal Window is the project's directory.
-
-
 
