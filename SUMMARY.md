@@ -15,5 +15,5 @@
         * [Choose your own color theme](choose-your-own-color-theme.md)
         * [Convert the project folder into a package](convert-the-project-folder-into-a-package.md)
         * [Create and run scripts from the package](create-and-run-scripts-from-the-package.md)
-* Define your project as a TypeScript project
+* [Define your project as a TypeScript project](define-your-project-as-a-typescript-project.md)
 
