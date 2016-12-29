@@ -14,9 +14,7 @@ In the search box type **nativescript** and click on the first one that comes up
 Visual Studio will show you all the details about this extension.  
 Click on the **Install** button.
 
-
-
-References
+## References
 
 [https://www.nativescript.org/nativescript-for-visual-studio-code](https://www.nativescript.org/nativescript-for-visual-studio-code)
 
