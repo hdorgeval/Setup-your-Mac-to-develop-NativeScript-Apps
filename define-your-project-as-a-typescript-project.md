@@ -79,5 +79,9 @@ Go back to Visual Studio Code to see this new file:
 
 Learn more about **tsconfig.json** in next section.
 
+## References
 
+[https://docs.npmjs.com/getting-started/installing-npm-packages-globally](https://docs.npmjs.com/getting-started/installing-npm-packages-globally)
+
+[https://code.visualstudio.com/docs/languages/typescript](https://code.visualstudio.com/docs/languages/typescript)
 

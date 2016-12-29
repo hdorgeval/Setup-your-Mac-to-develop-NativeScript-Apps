@@ -97,3 +97,9 @@ pwd
 
 The working directory that is setup in this Terminal Window is the project's directory.
 
+## References
+
+[http://stackoverflow.com/questions/31179706/how-can-i-launch-the-ios-simulator-from-terminal](http://stackoverflow.com/questions/31179706/how-can-i-launch-the-ios-simulator-from-terminal)
+
+
+
