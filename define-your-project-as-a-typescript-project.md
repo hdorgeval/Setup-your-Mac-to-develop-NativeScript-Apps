@@ -30,3 +30,7 @@ The npm install command did two things:
 
 Go back to Visual Studio Code to see these two changes:
 
+![](/assets/Screen Shot 2016-12-29 at 09.59.51.png)
+
+bla
+
