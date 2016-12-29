@@ -102,9 +102,17 @@ This creates a new launch.json file in the .vscode folder located at the root of
 
 
 
+Debug the App on Android Emulator
 
+From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the following command.
 
+```
+npm run Nexus5
+```
 
+When the emulator has started, go back to Visual Studio Code, open the main-view-model.ts in the app folder and set a breakpoint at the first line of the onTap\(\) method:
+
+![](/assets/Screen Shot 2016-12-29 at 21.56.51.png)
 
 
 
