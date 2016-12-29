@@ -23,7 +23,6 @@ To work with these core modules by using the JavaScript syntax, you will write:
 const http = require('http');
 const net = require('net');
 const url = require('path');
-
 ```
 
 In TypeScript the require\(\) syntax is replaced by an import syntax:
@@ -32,15 +31,69 @@ In TypeScript the require\(\) syntax is replaced by an import syntax:
 import * as http from "http";
 import * as net from "net";
 import * as path from "path";
-
 ```
 
 In Visual Studio Code, create a folder called **app** in your project's folder. Then create an **app.ts** file within the app folder. In the app.ts write the following statement:
 
 ```
 import * as http from "http";
-
 ```
 
 You will notice that Visual Studio complains it cannot find the http module:
+
+![](/assets/Screen Shot 2016-12-29 at 11.38.53.png)
+
+To work with the core Node.js modules, Visual Studio needs a type definition for these modules. A type definition is a file with the **.d.ts** extension. A type definition provides information about the method and properties that you can use. In one word it describes the public interface of the module.
+
+To install these files in your project you will use a node package called [typings](https://github.com/typings/typings).
+
+To install this package, open a Terminal Window from Visual Studio Code and type the following commands:
+
+```
+npm install typings --save-dev
+
+npm install typings --global
+```
+
+The **--save-dev** option means this package is a development dependency for your project. It also means the typings package does not need to be deployed to the production or to the target environment.
+
+The typings package is also deployed globally because it exposes a CLI. You will use this CLI to download and install, in your project folder, any needed type definition file.
+
+You will use this CLI to configure your project folder. To do this type the following command in the same Terminal window:
+
+```
+typings init
+```
+
+This command create a **typings.json** file in the project's folder.
+
+Now you are ready to download and install the type definition file for node.js core modules. To do this type the following command in the Command Prompt opened by visual Studio Code:
+
+```
+>
+typings install dt~node --global --save-dev
+
+```
+
+To discover the different options and the syntax of theinstallcommand provided by thetypingsCLI, you can type:
+
+```
+>
+typings install -h
+
+```
+
+This command first creates atypingsfolder within the project's folder. It then downloads the node.d.tsfile inside that folder. It also creates or updates anindex.d.tsthat references all downloaded type definition files. It registers in the typings.json the node.d.tsfile as a development dependency. You can download or re-download all type definition files in thetypings.jsonfile by invoking the command:
+
+```
+>
+typings install
+
+```
+
+To see the type definition in action, you need to close Visual Studio Code. Then open again your Project's folder with Visual Studio Code.
+
+Open theapp.tsfile. You will see that Visual Studio does not complain anymore. If you start typinghttp., the IntelliSense helps you to complete your code:
+
+
 
