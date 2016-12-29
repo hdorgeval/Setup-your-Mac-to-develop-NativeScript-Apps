@@ -89,5 +89,7 @@ Open the **app.ts** file. You will see that Visual Studio does not complain anym
 
 ![](/assets/Screen Shot 2016-12-29 at 11.57.04.png)
 
+bla
+
 
 
