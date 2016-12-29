@@ -21,5 +21,3 @@ If some components are missing from the android SDK or from the JDK, you will re
 
 If you see one of these messages, go to the JDK and Android sections to solve this issue.
 
-
-
