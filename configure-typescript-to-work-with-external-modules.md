@@ -67,33 +67,23 @@ typings init
 
 This command create a **typings.json** file in the project's folder.
 
-Now you are ready to download and install the type definition file for node.js core modules. To do this type the following command in the Command Prompt opened by visual Studio Code:
+Now you are ready to download and install the type definition file for node.js core modules. To do this type the following command in the Terminal window opened by visual Studio Code:
 
 ```
->
 typings install dt~node --global --save-dev
-
 ```
 
-To discover the different options and the syntax of theinstallcommand provided by thetypingsCLI, you can type:
+To discover the different options and the syntax of the install command provided by the typings CLI, you can type:
 
 ```
->
 typings install -h
-
 ```
 
-This command first creates atypingsfolder within the project's folder. It then downloads the node.d.tsfile inside that folder. It also creates or updates anindex.d.tsthat references all downloaded type definition files. It registers in the typings.json the node.d.tsfile as a development dependency. You can download or re-download all type definition files in thetypings.jsonfile by invoking the command:
+This command first creates a **typings** folder within the project's folder. It then downloads the **node.d.ts** file inside that folder. It also creates or updates an **index.d.ts** that references all downloaded type definition files. It registers in the **typings.json** the **node.d.ts** file as a development dependency. You can download or re-download all type definition files declared in the typings.json file by invoking the command:
 
 ```
->
 typings install
-
 ```
 
-To see the type definition in action, you need to close Visual Studio Code. Then open again your Project's folder with Visual Studio Code.
-
-Open theapp.tsfile. You will see that Visual Studio does not complain anymore. If you start typinghttp., the IntelliSense helps you to complete your code:
-
-
+Open the **app.ts** file. You will see that Visual Studio does not complain anymore. If you start typinghttp., the IntelliSense helps you to complete your code:
 
