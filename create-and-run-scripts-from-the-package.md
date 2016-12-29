@@ -71,6 +71,16 @@ The package.json file should look like :
 
 
 
+Save the package.json file.
+
+To run your iPhone emulator type the following command in the Terminal window:
+
+```
+npm run iPhone6
+```
+
+T
+
 ## How to open a Terminal Window from Visual Studio Code?
 
 In Visual Studio Code open the Command Palette by typing ⌘⇧P. Then start typing the following text:
