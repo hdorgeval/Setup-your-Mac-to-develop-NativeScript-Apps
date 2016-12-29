@@ -31,9 +31,20 @@ Once the project is created, type the following commands in the Terminal window:
 
 ```
 cd MyApp
-tns platform add android
-tns prepare android
-tns build android
+tns platform add android
+tns prepare android
+tns build android
+```
+
+## Build Your NativeScript Project for iOS
+
+Once the project is created, type the following commands in the Terminal window:
+
+```
+cd MyApp (only if you did not build for Android)
+tns platform add ios
+tns prepare ios
+tns build ios
 ```
 
 
