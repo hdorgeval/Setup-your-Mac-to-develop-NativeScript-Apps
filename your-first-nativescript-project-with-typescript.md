@@ -100,7 +100,7 @@ This creates a new launch.json file in the .vscode folder located at the root of
 
 ![](/assets/Screen Shot 2016-12-29 at 21.47.04.png)
 
-Debug the App on Android Emulator
+## Debug the App on Android Emulator
 
 From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the following command.
 
@@ -126,4 +126,31 @@ Click on the TAP button. You should hit the breakpoint in Visual Studio Code as 
 
 Congratulation!!! You are now ready to develop native Apps for Android.
 
+
+
+## Debug the App on iPhone Emulator
+
+From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the following command.
+
+```
+npm run iPhone6
+```
+
+When the emulator has started, go back to Visual Studio Code, open the main-view-model.ts in the app folder and set a breakpoint at the first line of the onTap\(\) method:
+
+![](/assets/Screen Shot 2016-12-29 at 21.56.51.png)
+
+Open the Debug pane \(⌘⇧ D\). Choose Launch on iOS in the debug list:
+
+![](/assets/Screen Shot 2016-12-29 at 22.20.17.png)
+
+Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
+
+![](/assets/Screen Shot 2016-12-29 at 22.05.34.png)
+
+Click on the TAP button. You should hit the breakpoint in Visual Studio Code as shown in the following snapshot:
+
+![](/assets/Screen Shot 2016-12-29 at 22.08.37.png)
+
+Congratulation!!! You are now ready to develop native Apps for Android.
 
