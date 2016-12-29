@@ -4,17 +4,16 @@ The purpose of this section is to give you the basic knowledge of how to create 
 
 Going through this section will ensure your development environment is correctly setup for creating awsome NativeScript Apps.
 
-### Create the root folder of your project template {#create-the-root-folder-of-your-project-template}
+### Create the root folder of your NativeScript project  {#create-the-root-folder-of-your-project-template}
 
-Within your home folder, create a folder called VSCodeProjects \(if not already done\). This folder will be the root folder for all your applications developed with Visual Studio Code.
+Within your home folder, create a folder called VSCodeProjects \(if not already done\). This folder will be the root folder for all your NativeScript applications developed with Visual Studio Code.
 
 Open the Terminal app and type the following commands:
 
 ```
 cd $HOME
 cd VSCodeProjects
-
 ```
 
-Notice the dot after the code 
+Notice the dot after the code
 
