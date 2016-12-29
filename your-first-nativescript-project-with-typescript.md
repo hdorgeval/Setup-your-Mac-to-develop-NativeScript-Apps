@@ -118,7 +118,7 @@ Open the Debug pane \(⌘⇧ D\). Choose Launch on Android in the debug list:
 
 Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
 
-
+![](/assets/Screen Shot 2016-12-29 at 22.05.34.png)
 
 
 
