@@ -63,11 +63,13 @@ This command will display the IDs for each knowns devices:
     iPad Air 2 (441070C1-A5CB-461A-B8FF-63958137ABAA) (Shutdown)
     iPad Pro (9.7 inch) (BD0F1E11-50A9-4B08-8543-A4AFEE0F9BBA) (Shutdown)
     iPad Pro (12.9 inch) (AE34B33C-0D72-43F7-9937-CC51B679B5E5) (Shutdown)
-    ```
-    
-
+```
 
 The package.json file should look like :
+
+![](/assets/Screen Shot 2016-12-29 at 16.22.35.png)
+
+
 
 ## How to open a Terminal Window from Visual Studio Code?
 
