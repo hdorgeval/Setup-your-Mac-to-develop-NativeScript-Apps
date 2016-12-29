@@ -44,6 +44,29 @@ The CurrentDeviceID comes from the result of the following command:
 xcrun simctl list
 ```
 
+This command will display the IDs for each knowns devices:
+
+```
+== Devices ==
+-- iOS 10.2 --
+    iPhone 5 (DAC97D5B-7BBA-4799-AD18-5D09EF888565) (Shutdown)
+    iPhone 5s (CCD365A7-50EB-4378-B91B-2F1CA20DD602) (Shutdown)
+    iPhone 6 (8528838E-4B47-4F0E-B415-E87F8C8A6163) (Shutdown)
+    iPhone 6 Plus (6DC829A9-D2EE-492D-B1FC-D22FBB5AD587) (Shutdown)
+    iPhone 6s (1F4BF9E0-D2C8-47CF-B210-EFB97505CD8B) (Shutdown)
+    iPhone 6s Plus (4C7C5F53-3516-41B0-832D-E78DA377E970) (Shutdown)
+    iPhone 7 (2FDBFF1B-5525-475A-AC37-FE53C49E2317) (Shutdown)
+    iPhone 7 Plus (520BC035-F348-40F5-83EF-BC7F3609B7EC) (Shutdown)
+    iPhone SE (27293068-6192-463A-9FC9-A35CD20881CC) (Shutdown)
+    iPad Retina (A1CA6D93-2A94-416C-A05B-2A3311FEE5DB) (Shutdown)
+    iPad Air (D3D4D745-3091-4DCB-8BF9-7E743B5F9420) (Shutdown)
+    iPad Air 2 (441070C1-A5CB-461A-B8FF-63958137ABAA) (Shutdown)
+    iPad Pro (9.7 inch) (BD0F1E11-50A9-4B08-8543-A4AFEE0F9BBA) (Shutdown)
+    iPad Pro (12.9 inch) (AE34B33C-0D72-43F7-9937-CC51B679B5E5) (Shutdown)
+    ```
+    
+
+
 The package.json file should look like :
 
 ## How to open a Terminal Window from Visual Studio Code?
