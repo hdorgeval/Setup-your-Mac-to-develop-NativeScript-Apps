@@ -25,9 +25,16 @@ This command will create a new folder called MyApp within the VSCodeProjects pro
 
 This MyApp folder will contain all the files needed to create a new NativeScript App.
 
+## Build Your NativeScript Project for Android
 
+Once the project is created, type the following commands in the Terminal window:
 
-
+```
+cd MyApp
+tns platform add android
+tns prepare android
+tns build android
+```
 
 
 
