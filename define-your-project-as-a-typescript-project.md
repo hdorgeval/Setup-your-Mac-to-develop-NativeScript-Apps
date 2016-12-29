@@ -7,7 +7,7 @@ Visual Studio Code is language agnostic. You must give Visual Studio specific in
 To tell Visual Studio Code that you want to code with the TypeScript language, you must do two things:
 
 * Download the TypeScript package;
-* run the tsc --init command.
+* run the **tsc --init** command.
 
 To install TypeScript type the following command:
 
@@ -46,54 +46,32 @@ If you open the **.bin** folder you will see a **tsc** command. This **tsc** com
 
 Any command or executable file in the **.bin** folder can be invoked in two ways.
 
-The first way is to open the .bin directory in a Terminal window and then call the CLI from this command window. To do this go back to Visual Studio and right-click the .bin folder then select the option Open in Command Prompt. In this command prompt typetsc: you will get the help for the TypeScript CLI.
+The first way is to open the .bin directory in a Terminal window and then call the CLI from this command window. To do this go back to Visual Studio and right-click the .bin folder then select the option Open in Terminal. In this Terminal window type **./tsc**: you will get the help for the TypeScript CLI.
 
-The second way is to reference these commands in thescriptsobject of thepackage.jsonfile. To do this, add a new property in thescriptsobject of thepackage.jsonfile:
-
-```
-"tsc" : "tsc.cmd"
+But if you just type **tsc** in the Terminal window, you will get the following message:
 
 ```
-
-To run thetsccommand, type the following command in the Command Prompt window of the current project:
-
-```
->
- npm run tsc
-
+tsc
+tsc: command not found
 ```
 
-But if you just typetscin the above Command Prompt window, you will get the following message:
-
-```
->
- tsc
-'tsc' is not recognized as an internal or external command,
-operable program or batch file.
-
-```
-
-To invoke the TypeScript CLI directly in the project Command Prompt window, the Typescript package must be installed globally.
+To invoke the TypeScript CLI directly in the project Terminal window, the Typescript package must be installed globally.
 
 To do this, type the following command:
 
 ```
->
- npm install typescript --global
-
+npm install typescript --global
 ```
 
-Now you an run the command:
+Now you can run the following command the Terminal window \(This Terminal window must be opened from the Command Palette of Visual Studio Code\) :
 
 ```
->
- tsc --init
-
+tsc --init
 ```
 
-Thetsc --initcommand creates a new file at the root of your project folder. The name of this file istsconfig.json.
+The **tsc --init** command creates a new file at the root of your project folder. The name of this file is **tsconfig.json**.
 
-Thetsconfig.jsonfile tells Visual Studio that your project is a TypeScript project.
+The **tsconfig.json** file tells Visual Studio that your project is a TypeScript project.
 
 Go back to Visual Studio Code to see this new file:
 
