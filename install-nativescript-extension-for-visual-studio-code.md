@@ -11,5 +11,8 @@ In the search box type **nativescript** and click on the first one that comes up
 
 ![](/assets/Screen Shot 2016-12-29 at 12.09.20.png)
 
+Visual Studio will show you all the details about this extension.  
+Click on the **Install** button.
+
 
 
