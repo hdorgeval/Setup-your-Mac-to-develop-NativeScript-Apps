@@ -100,8 +100,6 @@ This creates a new launch.json file in the .vscode folder located at the root of
 
 ![](/assets/Screen Shot 2016-12-29 at 21.47.04.png)
 
-
-
 Debug the App on Android Emulator
 
 From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the following command.
@@ -114,7 +112,11 @@ When the emulator has started, go back to Visual Studio Code, open the main-view
 
 ![](/assets/Screen Shot 2016-12-29 at 21.56.51.png)
 
+Open the Debug pane \(⌘⇧ D\). Choose Launch on Android in the debug list:
 
+![](/assets/Screen Shot 2016-12-29 at 21.59.05.png)
+
+Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
 
 
 
