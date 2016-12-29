@@ -126,8 +126,6 @@ Click on the TAP button. You should hit the breakpoint in Visual Studio Code as 
 
 Congratulation!!! You are now ready to develop native Apps for Android.
 
-
-
 ## Debug the App on iPhone Emulator
 
 From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the following command.
@@ -146,11 +144,11 @@ Open the Debug pane \(⌘⇧ D\). Choose Launch on iOS in the debug list:
 
 Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
 
-![](/assets/Screen Shot 2016-12-29 at 22.05.34.png)
+![](/assets/Screen Shot 2016-12-29 at 22.22.58.png)
 
 Click on the TAP button. You should hit the breakpoint in Visual Studio Code as shown in the following snapshot:
 
-![](/assets/Screen Shot 2016-12-29 at 22.08.37.png)
+![](/assets/Screen Shot 2016-12-29 at 22.24.33.png)
 
-Congratulation!!! You are now ready to develop native Apps for Android.
+Congratulation!!! You are now ready to develop native Apps for iOS.
 
