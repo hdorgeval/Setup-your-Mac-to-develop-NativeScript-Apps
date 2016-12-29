@@ -77,5 +77,7 @@ Go back to Visual Studio Code to see this new file:
 
 ![](/assets/Screen Shot 2016-12-29 at 11.05.33.png)
 
+Learn more about **tsconfig.json** in next section.
+
 
 
