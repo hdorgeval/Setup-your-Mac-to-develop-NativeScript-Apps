@@ -1,6 +1,6 @@
 ### Define your project as a TypeScript project {#define-your-project-as-a-typescript-project}
 
-[Typescript](http://www.typescriptlang.org/)is a de-facto standard for developing JavaScript Apps with Node.js, NativeScript and Angular2.
+[Typescript](http://www.typescriptlang.org/) is a de-facto standard for developing JavaScript Apps with Node.js, NativeScript and Angular2.
 
 Visual Studio Code is language agnostic. You must give Visual Studio specific information to properly manage your code files.
 
@@ -13,7 +13,6 @@ To install TypeScript type the following command:
 
 ```
 npm install typescript --save-dev
-
 ```
 
 You should type this command in the Terminal Window opened from Visual Studio Code.
