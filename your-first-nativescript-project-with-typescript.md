@@ -70,7 +70,45 @@ The package.json file should look like this:
 
 ![](/assets/Screen Shot 2016-12-29 at 19.23.11.png)
 
-bla
+Save the package.json file.
+
+To run your custom android emulator type the following command in the Terminal window:
+
+```
+npm run Nexus5
+```
+
+To run your custom iPhone emulator type the following command in the Terminal window:
+
+```
+npm run iPhone6
+```
+
+## Setup the debug environment for NativeScript in Visual Studio Code
+
+In Visual Studio Code, click on the debug button ![](/assets/Screen Shot 2016-12-29 at 21.06.18.png).
+
+This opens the debug pane:
+
+![](/assets/Screen Shot 2016-12-29 at 21.08.57.png)
+
+Notice the 'No Configuration' statement after the Start Debugging button.
+
+Click on the Open launch.json button ![](/assets/Screen Shot 2016-12-29 at 21.42.37.png), and choose NativeScript from the suggestion list.
+
+This creates a new launch.json file in the .vscode folder located at the root of the project's folder:
+
+![](/assets/Screen Shot 2016-12-29 at 21.47.04.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
