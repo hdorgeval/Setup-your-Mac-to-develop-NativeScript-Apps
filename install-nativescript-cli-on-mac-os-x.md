@@ -40,7 +40,11 @@ Once installed, the name of this Command-Line tool is **tns**. Type the followin
 tns -h
 ```
 
-During the installation there is a check for the Android SDK installation and Xcode installation. 
+During the installation there is a check for the Android SDK installation and Xcode installation.
 
 You may receive error messages in the Terminal window about missing or misconfigured components.
+
+## References
+
+[https://www.npmjs.com/package/nativescript](https://www.npmjs.com/package/nativescript)
 

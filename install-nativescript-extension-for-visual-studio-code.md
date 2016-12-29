@@ -7,7 +7,9 @@ Open Visual Studio Code and click the Extension button at the bottom left:
 
 ![](/assets/Screen Shot 2016-12-29 at 12.04.42.png)
 
+In the search box type **nativescript** and click on the first one that comes up:
 
+![](/assets/Screen Shot 2016-12-29 at 12.09.20.png)
 
 
 
