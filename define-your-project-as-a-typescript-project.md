@@ -32,5 +32,70 @@ Go back to Visual Studio Code to see these two changes:
 
 ![](/assets/Screen Shot 2016-12-29 at 09.59.51.png)
 
-bla
+A new folder called node\_modules is now present inside your project folder.
+
+A new entry called devDependencies has been created in the package.json file.
+
+Now you need to run the **tsc --init** command to tell Visual Studio Code you are coding in TypeScript.
+
+Before typing this command, you need to know where this command is living.
+
+The node\_modules folder has a **.bin** sub-folder and a typescript sub-folder. The typescript sub-folder contains the downloaded typescript package. The **.bin** folder contains commands or executable files related to the downloaded packages.
+
+If you open the **.bin** folder you will see a **tsc** command. This **tsc** command is the TypeScript CLI. This means that any action related to TypeScript, like compiling to JavaScript, will be done through this command line.
+
+Any command or executable file in the **.bin** folder can be invoked in two ways.
+
+The first way is to open the .bin directory in a Terminal window and then call the CLI from this command window. To do this go back to Visual Studio and right-click the .bin folder then select the option Open in Command Prompt. In this command prompt typetsc: you will get the help for the TypeScript CLI.
+
+The second way is to reference these commands in thescriptsobject of thepackage.jsonfile. To do this, add a new property in thescriptsobject of thepackage.jsonfile:
+
+```
+"tsc" : "tsc.cmd"
+
+```
+
+To run thetsccommand, type the following command in the Command Prompt window of the current project:
+
+```
+>
+ npm run tsc
+
+```
+
+But if you just typetscin the above Command Prompt window, you will get the following message:
+
+```
+>
+ tsc
+'tsc' is not recognized as an internal or external command,
+operable program or batch file.
+
+```
+
+To invoke the TypeScript CLI directly in the project Command Prompt window, the Typescript package must be installed globally.
+
+To do this, type the following command:
+
+```
+>
+ npm install typescript --global
+
+```
+
+Now you an run the command:
+
+```
+>
+ tsc --init
+
+```
+
+Thetsc --initcommand creates a new file at the root of your project folder. The name of this file istsconfig.json.
+
+Thetsconfig.jsonfile tells Visual Studio that your project is a TypeScript project.
+
+Go back to Visual Studio Code to see this new file:
+
+
 
