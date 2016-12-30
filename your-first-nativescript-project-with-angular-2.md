@@ -122,7 +122,7 @@ Then click on the Start Debugging button. After a few seconds you should see the
 
 Click on the TAP button. You should hit the breakpoint in Visual Studio Code as shown in the following snapshot:
 
-![](/assets/Screen Shot 2016-12-29 at 22.08.37.png)
+![](/assets/Screen Shot 2016-12-30 at 12.23.46.png)
 
 Congratulation!!! You are now ready to develop native Apps for Android.
 
