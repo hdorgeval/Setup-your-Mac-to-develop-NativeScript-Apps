@@ -40,3 +40,7 @@ Select all default installation steps until completion:
 
 You can read more on Git at : [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
+## References
+
+[https://git-scm.com/doc](https://git-scm.com/doc)
+

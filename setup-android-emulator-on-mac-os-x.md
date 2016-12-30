@@ -71,3 +71,7 @@ This should start the emulator with the selected AVD.
 
 [https://developer.android.com/studio/run/managing-avds.html?utm\_source=android-studio\#about](https://developer.android.com/studio/run/managing-avds.html?utm_source=android-studio#about)
 
+[https://developer.android.com/about/dashboards/index.html](https://developer.android.com/about/dashboards/index.html)
+
+
+

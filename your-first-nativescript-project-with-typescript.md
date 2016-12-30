@@ -152,13 +152,11 @@ Click on the TAP button. You should hit the breakpoint in Visual Studio Code as 
 
 Congratulation!!! You are now ready to develop native Apps for iOS.
 
-
-
 References
 
-https://www.npmjs.com/package/nativescript\#create-project
+[https://www.npmjs.com/package/nativescript\\#create-project](https://www.npmjs.com/package/nativescript\#create-project)
 
-http://docs.nativescript.org/tooling/visual-studio-code-extension
+[http://docs.nativescript.org/tooling/visual-studio-code-extension](http://docs.nativescript.org/tooling/visual-studio-code-extension)
 
-
+[https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/)
 
