@@ -4,15 +4,15 @@ The purpose of this book is to guide you to install, on a Mac OS X, all requirem
 
 This guide covers the following versions :
 
+* NativeScript 2.4.4
+
+* Angular 2.2
+
 * Visual Studio Code 1.8.1
 
 * JDK 8
 
 * TypeScript 2.1.4
-
-* NativeScript 2.4.4
-
-* Angular 2.2
 
 
 
