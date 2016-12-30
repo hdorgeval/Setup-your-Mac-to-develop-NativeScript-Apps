@@ -50,5 +50,5 @@ You may receive error messages in the Terminal window about missing or misconfig
 
 [https://docs.npmjs.com/getting-started/installing-npm-packages-globally](https://docs.npmjs.com/getting-started/installing-npm-packages-globally)
 
-
+[https://github.com/NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli)
 
