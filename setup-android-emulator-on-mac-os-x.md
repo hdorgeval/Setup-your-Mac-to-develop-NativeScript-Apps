@@ -65,3 +65,7 @@ $ANDROID_HOME/tools/emulator -netdelay none -netspeed full -avd Nexus_5_API_25
 
 This should start the emulator with the selected AVD.
 
+## References
+
+[https://developer.android.com/studio/run/emulator.html](https://developer.android.com/studio/run/emulator.html)
+
