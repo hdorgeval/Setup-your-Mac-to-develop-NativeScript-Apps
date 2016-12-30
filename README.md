@@ -1,4 +1,18 @@
 # Setup your Mac to develop NativeScript Apps
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The purpose of this book is to guide you to install, on a Mac OS X, all requirements needed to develop NativeScript Apps that target Android and iOS devices. Visual Studio Code will be installed as the IDE for developing NativeScript Apps.
+
+This guide covers the following versions :
+
+* Visual Studio Code 1.8.1
+
+* JDK 8
+
+* TypeScript 2.1.4
+
+* NativeScript 2.4.4
+
+* Angular 2.2
+
+
 
