@@ -38,7 +38,7 @@ Install [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) wit
 
 `sudo gem install cocoapods`
 
+## References
 
-
-
+[https://docs.nativescript.org/start/ns-setup-os-x](https://docs.nativescript.org/start/ns-setup-os-x)
 
