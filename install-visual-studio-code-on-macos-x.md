@@ -18,7 +18,7 @@ Then follow installation steps from : [Running VS Code on Mac](https://code.visu
 
 Visual Studio Code projects are folder based. This means that Visual Studio Code must run in the context of your project folder.
 
-One way to achieve this is to open a Terminal window, then cd to your project folder  and then type `code .` to start Visual Studio Code in the context of the current directory.
+One way to achieve this is to open a Terminal window, then cd to your project folder  and  type `code .` to start Visual Studio Code in the context of the current directory.
 
 For this to work a symbolic link file named `code` must be created in the /usr/local/bin  folder:
 
