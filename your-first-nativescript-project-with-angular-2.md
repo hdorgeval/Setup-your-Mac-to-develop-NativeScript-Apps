@@ -15,10 +15,10 @@ cd $HOME
 cd VSCodeProjects
 ```
 
-Then type the following command to create a new project folder by using the default TypeScript project template:
+Then type the following command to create a new project folder by using the default Angular 2 project template:
 
 ```
-tns create MyApp --template typescript
+tns create MyApp --template angular
 ```
 
 This command will create a new folder called MyApp within the VSCodeProjects projects folder.
@@ -108,9 +108,9 @@ From Visual Studio Code, open a Terminal Window \(⌘⇧ C\) and type the follow
 npm run Nexus5
 ```
 
-When the emulator has started, go back to Visual Studio Code, open the main-view-model.ts in the app folder and set a breakpoint at the first line of the onTap\(\) method:
+When the emulator has started, go back to Visual Studio Code, open the app.component.ts in the app folder and set a breakpoint at the first line of the onTap\(\) method:
 
-![](/assets/Screen Shot 2016-12-29 at 21.56.51.png)
+![](/assets/Screen Shot 2016-12-30 at 12.18.13.png)
 
 Open the Debug pane \(⌘⇧ D\). Choose Launch on Android in the debug list:
 
@@ -118,7 +118,7 @@ Open the Debug pane \(⌘⇧ D\). Choose Launch on Android in the debug list:
 
 Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
 
-![](/assets/Screen Shot 2016-12-29 at 22.05.34.png)
+![](/assets/Screen Shot 2016-12-30 at 12.21.24.png)
 
 Click on the TAP button. You should hit the breakpoint in Visual Studio Code as shown in the following snapshot:
 
