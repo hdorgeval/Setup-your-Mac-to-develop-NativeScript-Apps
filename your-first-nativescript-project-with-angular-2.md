@@ -68,7 +68,7 @@ See the [Create and run scripts from the package](/create-and-run-scripts-from-t
 
 The package.json file should look like this:
 
-![](/assets/Screen Shot 2016-12-29 at 19.23.11.png)
+![](/assets/Screen Shot 2016-12-30 at 12.31.30.png)
 
 Save the package.json file.
 
