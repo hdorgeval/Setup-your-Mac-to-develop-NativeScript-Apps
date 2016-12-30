@@ -86,3 +86,5 @@ You should have a non empty response.
 
 [http://docs.oracle.com/javase/8/docs/technotes/guides/install/mac\_jdk.html](http://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 
+[http://www.oracle.com/technetwork/java/javase/documentation/index.html](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
+
