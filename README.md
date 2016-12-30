@@ -4,7 +4,7 @@ The purpose of this book is to guide you to install, on a Mac OS X, all requirem
 
 This guide covers the following versions :
 
-* NativeScript 2.4.4
+* NativeScript 2.4
 
 * Angular 2.2
 
