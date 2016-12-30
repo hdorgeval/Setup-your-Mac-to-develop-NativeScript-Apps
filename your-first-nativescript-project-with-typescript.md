@@ -142,7 +142,7 @@ Open the Debug pane \(⌘⇧ D\). Choose Launch on iOS in the debug list:
 
 ![](/assets/Screen Shot 2016-12-29 at 22.20.17.png)
 
-Then click on the Start Debugging button. After a few seconds you should see the Android emulator running your App:
+Then click on the Start Debugging button. After a few seconds you should see the iPhone emulator running your App:
 
 ![](/assets/Screen Shot 2016-12-29 at 22.22.58.png)
 
